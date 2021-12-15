@@ -1,0 +1,1 @@
+<?php echo do_shortcode('[kraina_latest_posts]'); ?>
